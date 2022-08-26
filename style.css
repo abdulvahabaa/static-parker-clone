@@ -1,0 +1,233 @@
+body{
+    margin: 0;
+  font-family: roboto-regular, sans-serif;
+}
+
+.nav{
+    z-index: 1;
+    background-color:#3b3c43;
+    width:100%;
+    margin-top: -15px;
+    position: fixed; 
+
+}
+.navbar{
+  /* height: 99px; */
+  padding-top: 80px;
+    width: 100%;
+    background-color: white;
+    /* top: 60px; */
+    /* position: fixed;   */
+}
+.searchbox{
+    height: 45px;
+    width: 330px;
+    margin-left: 35px;
+    
+}
+#s{
+    background-color:rgb(255, 255, 255);
+    width: 35px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+.logo{
+    margin-left: 150px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.navbar{
+    text-align: center;
+    margin: 11px;
+}
+
+.navbar a{
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+.queen{
+    width: 100%;
+    height: 593px
+}
+.headi{
+    font-size: 55px;
+    color: rgb(255, 255, 255);
+   margin-top: -350px;
+   margin-left: 95px;
+}
+.discover{
+    padding: 15px 60px;
+    margin-left: 8px;
+    font-size: large;
+    align-content: center;
+}
+.peni{
+width: 50%;
+margin-top: 90px;
+
+}
+.b{
+    margin-top: -450px;
+    margin-left: 50%;
+}
+.jot{
+    width: 50%;
+    height: 590px;
+    margin-left: 50%;
+    margin-top: 143px;
+}
+.c{
+    margin-top: -350px;
+    margin-left: 10%;
+}
+.writing{
+    margin-top:89px ;
+    width: 50%;
+}
+.d{
+    display: flex;
+    /* margin-top: -35%; */
+    margin-bottom: 150px;
+}
+
+.d-text{
+    margin-top: 250px;
+    margin-left: 100px;
+}
+.hero{
+    width: 100%;
+    /* margin-top: 100px; */
+    height: 600px;
+    /* margin-top: 365px; */
+    position: relative;
+}
+.e{
+    font-size: x-large;
+    margin-top: -80px;
+    /* margin-top: 25px; */
+    position: absolute;
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+}
+.hero-1{
+    width: 100%;
+    /* margin-top: 100px; */
+    height: 600px;
+    /* margin-top: 365px; */
+    position: relative;
+}
+.e-1{
+    font-size: x-large;
+    margin-top: -226px;
+    /* margin-top: 25px; */
+    position: absolute;
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+}
+.text{
+    font-size: large;
+    text-align: center;
+    margin-top: -350px;
+}
+
+
+
+/*  */
+footer{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    height: 30px;
+}
+
+.last{
+    height: 65px;
+    width: 100px;
+    margin-left: 83px;
+}
+
+.last:hover{
+    cursor: pointer;
+}
+
+.liscence{
+    font-size: 12px;
+    margin-left: -137px;
+}
+
+.footer{
+    margin-top: 180px;
+    display: flex;
+
+}
+.country{
+    margin-left: 150px;
+}
+
+.countryflag{
+    margin-left: 650px;
+    width: 20px;
+    height: 20px;
+}
+
+.countryflag:hover{
+    cursor: pointer;
+}
+
+.countryname{
+    font-size: 12px;
+    margin-left: 9px;
+    margin-top: 3px;
+}
+
+.countryname:hover{
+    cursor: pointer;
+}
+
+.downangle{
+    margin-left: 8px;
+    margin-top: 10px;
+}
+
+.downangle:hover{
+    cursor: pointer;
+}
+.f1{
+  margin-left: 150px;
+  font-size: 12px;
+}
+.f2{
+   margin-left: 387px;
+   margin-top:-240px;
+   font-size: 12px;
+}
+.f3{
+    font-size: 12px;
+    margin-left: 643px;
+    margin-top :-136px; ;
+}
+.email{
+    margin-left: 150px;
+}
+
+
+.bt1{
+    /* height: 3.125rem; */
+    background-color: #fff;
+    color: #000;
+    /* padding: 25px 62px; */
+    
+}
+
+button{
+    cursor: pointer;
+}
+
+.help{
+    margin-left: 455px;
+    height: 30px;
+}
+
